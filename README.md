@@ -117,6 +117,25 @@ Nos saldrá esto.
 ![apartado2Resultado4](https://github.com/user-attachments/assets/5e880a5a-048a-4552-9d3c-2d94b2400944)
 
 
+### 4. Apartado 3 de la tarea 🤗
+
+Enunciado del apartado.
+
+```bash
+Realiza una consulta donde se muestren todos los datos de la tabla EmpresasFCT
+ ordenados por fechaContacto, de modo que en la primera fi la salga el que tenga la fecha más reciente
+```
+
+Nos vamos al apartado de las querys en el PgAdmin, y ejecutamos esto.
+
+![apartado3consulta](https://github.com/user-attachments/assets/3203c19d-7425-4845-aba3-8067f4b2febe)
+
+Este es el resultado.
+
+![apartado3resultado](https://github.com/user-attachments/assets/5b42174c-ca3c-4270-8832-7211d8e30121)
+
+
+
 
 
 
