@@ -184,7 +184,7 @@ Nos vamos al apartado de las querys en el PgAdmin, y ejecutamos esto.
 ![apartado6](https://github.com/user-attachments/assets/38d116dd-5af1-49d9-afb8-56626ffa873a)
 
 
-### 8. Apartado 7 de la tarea
+### 8. Apartado 7 de la tarea 🤗
 
 Enunciado del apartado.
 
