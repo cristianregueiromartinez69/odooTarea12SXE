@@ -184,6 +184,24 @@ Nos vamos al apartado de las querys en el PgAdmin, y ejecutamos esto.
 ![apartado6](https://github.com/user-attachments/assets/38d116dd-5af1-49d9-afb8-56626ffa873a)
 
 
+### 8. Apartado 7 de la tarea
+
+Enunciado del apartado.
+
+```bash
+Crea una sentencia que actualice el correo de los contactos cuyo dominio es @bilbao.example.com a @bilbao.bizkaia.neus
+```
+
+Nos vamos al apartado de las querys en el PgAdmin, y ejecutamos esto.
+
+![apartado7](https://github.com/user-attachments/assets/66cfe599-4612-4c79-94ed-203f41f7005a)
+
+Lo comprobamos.
+
+![apartado7parte2](https://github.com/user-attachments/assets/5a521da3-8b43-4b04-ae2b-7a6000052ae2)
+
+
+
 
 
 
