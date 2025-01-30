@@ -134,6 +134,23 @@ Este es el resultado.
 
 ![apartado3resultado](https://github.com/user-attachments/assets/5b42174c-ca3c-4270-8832-7211d8e30121)
 
+### 5. Apartado 4 de la tarea
+
+Enunciado del apartado.
+
+```bash
+Realiza una consulta que permita obtener un listado de todos los contactos de Odoo (no empresas) con la siguiente información:
+- Nombre
+- Cuya ciudad sea Tracy, y código postal 95304
+- Nombre comercial de la empresa
+ordenados alfabéticamente por el nombre comercial de la empresa,
+```
+
+Nos vamos al apartado de las querys en el PgAdmin, y ejecutamos esto.
+
+![apartado4consulta](https://github.com/user-attachments/assets/0d809fcb-e607-415c-b07f-7fc149211540)
+
+
 
 
 
