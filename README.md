@@ -63,9 +63,9 @@ Lo mismo para contactos.
 
 
 
-### 2. Apartado 1 de la tarea 😄
+### 2. Apartado 1 de la tarea 🤗
 
-Enunciado de la tarea.
+Enunciado del apartado.
 
 ```bash
 Mediante la herramienta PgAdmin u otro método que estimes oportuno, elabora y ejecuta una sentencia que cree una tabla llamada “EmpresasFCT“con los siguientes campos:
@@ -95,4 +95,31 @@ Le damos a ***ejecutar query*** y nos saldrá esto.
 Para comprobar que se creó la tabla, hay que recargar la página. Aquí la tenemos
 
 ![apartado1resultado2](https://github.com/user-attachments/assets/8ac8627a-0ee9-4005-a9e9-6b78948ee190)
+
+### 3. Apartado 2 de la tarea 🤗
+
+Enunciado del apartado.
+
+```bash
+Inserta 5 registros inventados en la tabla a través de una sentencia SQL.
+```
+
+Nos vamos al apartado de las querys en el PgAdmin, y ejecutamos esto.
+
+![apartado2Consulta](https://github.com/user-attachments/assets/bebed270-8f3f-4cd7-8895-50bb7809f4b4)
+
+Para comprobarlo, nos vamos a la tabla y le damos en **view/all rows**
+
+![apartado2Resultado2](https://github.com/user-attachments/assets/97c8c24f-3fbe-40cb-84aa-536443072c30)
+
+Nos saldrá esto.
+
+![apartado2Resultado4](https://github.com/user-attachments/assets/5e880a5a-048a-4552-9d3c-2d94b2400944)
+
+
+
+
+
+
+
 
