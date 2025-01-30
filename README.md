@@ -201,6 +201,33 @@ Lo comprobamos.
 ![apartado7parte2](https://github.com/user-attachments/assets/5a521da3-8b43-4b04-ae2b-7a6000052ae2)
 
 
+### 9. Apartado 8 de la tarea 🤗
+
+Enunciado del apartado.
+
+```bash
+La empresa Ready Mat ha hecho un ERE y ha despedido a todos los empleados que tenías como contacto.
+ Crea una sentencia que elimine todos los contactos pertenecientes a la empresa “Ready Mat”,
+pero mantén la empresa. Añade una captura de pantalla de la sección de contactos de odoo con Ready Mat antes y después.
+```
+
+Primero, como nos dicen en el enunciado, nos vamos a odoo y tomamos una captura de antes de borrar los datos.
+
+![apartado8parte1](https://github.com/user-attachments/assets/792189db-12d5-441a-a7cb-61e17ddbc75b)
+
+**Medida de seguridad** 😱
+
+Primero vamos a hacer un select de la información que vamos a borrar. ¿Por qué hacemos esto? 🤔, porque los delete no tienen manera de recuperarse de la base de datos, así que tenemos que estar 100% seguros de lo que vamos a borrar.
+
+![apartado8parte2](https://github.com/user-attachments/assets/7307fc96-8a40-4029-a471-919a97842c2f)
+
+La imagen anterior son los datos los cuales vamos a borrar. Cambios el ***SELECT*** por un ***DELETE***.
+
+![apartado8parte3](https://github.com/user-attachments/assets/59922855-6c97-4eba-b528-ae7d3c37d046)
+
+Comprobamos el resultado de odoo.
+
+![apartado8parte4](https://github.com/user-attachments/assets/631952d7-e00a-41af-92cc-b02d09b83a3c)
 
 
 
