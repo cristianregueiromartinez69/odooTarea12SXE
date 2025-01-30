@@ -46,6 +46,7 @@ Le damos a ***create database***.
 Introducimos los datos como en la imagen anterior o los datos que quieras y le damos a ***continue***.
 
 **Atención** 😱
+
 Hay que activar la opción de demo data para el ejercicio.
 
 Una vez hemos creado la base nos redirigirá a una ventana donde tenemos que poner el correo y la contraseña, las ponemos y nos mandará a odoo.
@@ -62,5 +63,36 @@ Lo mismo para contactos.
 
 
 
+### 2. Apartado 1 de la tarea 😄
 
+Enunciado de la tarea.
+
+```bash
+Mediante la herramienta PgAdmin u otro método que estimes oportuno, elabora y ejecuta una sentencia que cree una tabla llamada “EmpresasFCT“con los siguientes campos:
+● idEmpresa: autonumérico. Este campo será la clave primaria.
+● nombre: Texto con tamaño máximo de 40 caracteres. -useChatgpt: booleano, por defecto a true
+● quiereAlumnos: Booleano.
+● numAlumnos: número entero.
+● fechaContacto: tipo fecha
+```
+
+Nos vamos a un navegador e introducimos en la url.
+
+```bash
+http://(ip de tu entorno de trabajo):5050
+```
+Nos mandará a PgAdmin donde ponemos el correo y la contraseña.
+
+Tenemos que buscar la base de datos donde vamos a crear la tabla. La base es la que creamos en el apartado 1.
+Una vez estamos sobre la base, ejecutamos esta query.
+
+![apartado1Consulta](https://github.com/user-attachments/assets/f5ecc3fb-f1b8-4af5-a9ec-ebe816fc9a07)
+
+Le damos a ***ejecutar query*** y nos saldrá esto.
+
+![apartado1resultado1](https://github.com/user-attachments/assets/153b3f48-662e-417a-bbe5-0db6ce6c8342)
+
+Para comprobar que se creó la tabla, hay que recargar la página. Aquí la tenemos
+
+![apartado1resultado2](https://github.com/user-attachments/assets/8ac8627a-0ee9-4005-a9e9-6b78948ee190)
 
