@@ -134,7 +134,7 @@ Este es el resultado.
 
 ![apartado3resultado](https://github.com/user-attachments/assets/5b42174c-ca3c-4270-8832-7211d8e30121)
 
-### 5. Apartado 4 de la tarea
+### 5. Apartado 4 de la tarea 🤗
 
 Enunciado del apartado.
 
@@ -150,7 +150,22 @@ Nos vamos al apartado de las querys en el PgAdmin, y ejecutamos esto.
 
 ![apartado4consulta](https://github.com/user-attachments/assets/0d809fcb-e607-415c-b07f-7fc149211540)
 
+### 6. Apartado 5 de la tarea 🤗
 
+Enunciado del apartado.
+
+```bash
+Utilizando las tablas de odoo, obtén un listado de empresas proveedoras, que han emitido algún reembolso (facturas rectifi cativas de proveedor)
+- Nombre de la empresa
+- Número de factura
+- Fecha de la factura -total de factura con impuestos
+- Total factura SIN impuestos
+Ordenadas por fecha de factura de modo que la primera sea la más reciente.
+```
+
+Nos vamos al apartado de las querys en el PgAdmin, y ejecutamos esto.
+
+![apartado5](https://github.com/user-attachments/assets/ce5908eb-14bd-4a67-9c98-d1a46fb5e7c3)
 
 
 
