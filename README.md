@@ -168,6 +168,21 @@ Nos vamos al apartado de las querys en el PgAdmin, y ejecutamos esto.
 ![apartado5](https://github.com/user-attachments/assets/ce5908eb-14bd-4a67-9c98-d1a46fb5e7c3)
 
 
+### 7. Apartado 6 de la tarea 🤗
+
+Enunciado del apartado.
+
+```bash
+Utilizando las tablas de odoo, obtén un listado de empresas clientes, a las que se les ha emitido más de dos facturas de venta (solo venta) confi rmadas, mostrando los siguientes datos:
+- Nombre de la empresa
+- Número de facturas -total de factura con impuestos
+- Total facturado SIN IMPUESTOS
+```
+
+Nos vamos al apartado de las querys en el PgAdmin, y ejecutamos esto.
+
+![apartado6](https://github.com/user-attachments/assets/38d116dd-5af1-49d9-afb8-56626ffa873a)
+
 
 
 
