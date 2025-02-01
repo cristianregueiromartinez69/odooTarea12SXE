@@ -1,4 +1,4 @@
-# operaciones sobre la base de datos de una instalación de odoo. 😄
+# Operaciones sobre la base de datos de una instalación de odoo. 😄
 
 **Índice** 😎
 
@@ -230,7 +230,11 @@ Comprobamos el resultado de odoo.
 
 ![apartado8parte4](https://github.com/user-attachments/assets/631952d7-e00a-41af-92cc-b02d09b83a3c)
 
+### 10. problemas que hubo en la tarea 🤗
 
+- Dificultad para encontrar el nombre de las tablas, ya que algunos eran confusos.
+
+La gran cantidad de tablas y relaciones en odoo, hace que sea algo complicado, al principio, encontrar el nombre correspondiente a lo que pide el enunciado.
 
 
 
