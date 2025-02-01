@@ -165,7 +165,8 @@ Ordenadas por fecha de factura de modo que la primera sea la más reciente.
 
 Nos vamos al apartado de las querys en el PgAdmin, y ejecutamos esto.
 
-![apartado5](https://github.com/user-attachments/assets/ce5908eb-14bd-4a67-9c98-d1a46fb5e7c3)
+![apartado5](https://github.com/user-attachments/assets/28bc66ad-4a28-4245-a99e-95620d9274d6)
+
 
 
 ### 7. Apartado 6 de la tarea 🤗
@@ -181,7 +182,7 @@ Utilizando las tablas de odoo, obtén un listado de empresas clientes, a las que
 
 Nos vamos al apartado de las querys en el PgAdmin, y ejecutamos esto.
 
-![apartado6](https://github.com/user-attachments/assets/38d116dd-5af1-49d9-afb8-56626ffa873a)
+![apartado6](https://github.com/user-attachments/assets/725bd877-35c1-460e-a030-a4aec6779f81)
 
 
 ### 8. Apartado 7 de la tarea 🤗
